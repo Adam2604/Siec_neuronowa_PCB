@@ -7,10 +7,11 @@ Projekt realizowany w ramach przedmiotu Metody Numeryczne (semestr 6, EiT). Gł�
 <img width="989" height="459" alt="image" src="https://github.com/user-attachments/assets/45ff7833-7341-4c1b-ba33-c2a3e607cf21" />
 
 **Pliki projektu**
+
 Plik **app.py**: Interaktywna aplikacja GUI
 
 Plik **siec.py**: Skrypt generujący i optymalizujący sieć neuronową 
 
-Plik **symulacje.m**: Symulacje przeprowadzone w matlabie w celu zebrania danych do wytrenowania sieci neuronowych
+Plik **symulacje.m**: Symulacje przeprowadzone w MATLAB-ie w celu zebrania danych do wytrenowania sieci neuronowych
 
 Plik **model_pcb_grupa15_PRO**: wytrenowany model sieci neuronowej
